@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 I’m Mounir, a Fullstack Developer & Entrepreneur passionate about building scalable platforms.  
 
-🚀 Currently working on **Société Hub**, a marketplace that helps entrepreneurs buy, sell, and invest in companies.
+🚀 Currently working on **[Société Hub](https://societe-hub.com/)**, a marketplace that helps entrepreneurs buy, sell, and invest in companies.
 
 ---
 
@@ -56,6 +56,5 @@ I'm always open to:
 - linkedin : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounir-chitour-developpeur-web-fullstack)  
 
 
----
 
 
