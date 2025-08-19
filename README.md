@@ -48,14 +48,14 @@ I’m Mounir, a Fullstack Developer & Entrepreneur passionate about building sca
 ---
 
 ## 🤝 Let’s connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounir-chitour-developpeur-web-fullstack)  
 
 I'm always open to:  
 - Sparring on tech strategy or product vision  
 - Helping founders turn chaos into clarity  
-- Collaborating with thoughtful people who want to build cool stuff  
+- Collaborating with thoughtful people who want to build cool stuff
+- linkedin : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounir-chitour-developpeur-web-fullstack)  
+
 
 ---
 
-## 📈 GitHub Stats
-![Mounir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounir0101&show_icons=true&theme=dark)
+
