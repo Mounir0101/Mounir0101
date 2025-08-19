@@ -17,21 +17,14 @@ I’m Mounir, a Fullstack Developer & Entrepreneur passionate about building sca
 ## 🛠 Tech I work with
 
 **Languages & Frameworks**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)  
 
 **Backend & Infra**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 
 **Tools & Workflow**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)  
-![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)  ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)  
+
 
 ---
 
